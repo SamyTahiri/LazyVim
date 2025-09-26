@@ -18,7 +18,7 @@ return {
     opts = {
       flavor = "macchiato",
       colorscheme = "catppuccin",
-      transparent_background = true,
+      transparent = true,
     },
   },
 
